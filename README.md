@@ -30,8 +30,8 @@
 
 
 <!-- - 🔭 I’m currently working -->
-- 🌱 I’m currently learning ReactJs. <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
 <!-- - 👯 I’m looking to collaborate on . -->
+- 🌱 I’m currently learning ReactJs. <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
 - 🤔 I’m looking for a job as a DevRel or UI/UX Designer.
 - 💬 Ask me about Community Management or any tech related stuff.
 - 📫 How to reach me: [Twitter - @kindavishal](https://twitter.com/kindavishal) , [LinkedIn - @kindavishal](https://www.linkedin.com/in/kindavishal/)
