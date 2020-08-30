@@ -1,6 +1,6 @@
 ## Hey, I'm [Vishal!](https://kindavishal.js.org) 🐥
 
-<a href="https://twitter.com/kindavishal">
+<a href="https://twitter.com/intent/user?screen_name=kindavishal">
   <img align="left" alt="Vishal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/kindavishal">
@@ -34,11 +34,11 @@
 - 🌱 I’m currently learning ReactJs. <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
 - 🤔 I’m looking for a job as a DevRel or UI/UX Designer.
 - 💬 Ask me about anything between Code and Community 💖
-- 📫 How to reach me: [Twitter - @kindavishal](https://twitter.com/kindavishal) , [LinkedIn - @kindavishal](https://www.linkedin.com/in/kindavishal/)
+- 📫 How to reach me: [Twitter - @kindavishal](https://twitter.com/intent/user?screen_name=kindavishal) , [LinkedIn - @kindavishal](https://www.linkedin.com/in/kindavishal/)
 - 😄 Pronouns: He/Him 💁‍♂️
 - ⚡ Fun fact: I will stay up late night to talk to folks about Inclusion and Diversity :owl:
 
-[![Twitter: kindavishal](https://img.shields.io/twitter/follow/kindavishal?style=social)](https://twitter.com/kindavishal)
+[![Twitter: kindavishal](https://img.shields.io/twitter/follow/kindavishal?style=social)](https://twitter.com/intent/user?screen_name=kindavishal)
 [![Linkedin: kindavishal](https://img.shields.io/badge/-kindavishal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kindavishal/)](https://www.linkedin.com/in/kindavishal/)
 [![GitHub iampawan](https://img.shields.io/github/followers/kindavishal?label=follow&style=social)](https://github.com/kindavishal)
 [![website](https://img.shields.io/badge/PortfolioWebsite-kindavishal.js.org-2648ff?style=flat-square&logo=firefox)](https://kindavishal.js.org/)
