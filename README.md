@@ -32,7 +32,6 @@
 <!-- - 🔭 I’m currently working -->
 <!-- - 👯 I’m looking to collaborate on . -->
 - 🌱 I’m currently learning ReactJs. <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
-- 🤔 I’m looking for a job as a DevRel or UI/UX Designer.
 - 💬 Ask me about anything between Code and Community 💖
 - 📫 How to reach me: [Twitter - @kindavishal](https://twitter.com/intent/user?screen_name=kindavishal) , [LinkedIn - @kindavishal](https://www.linkedin.com/in/kindavishal/)
 - 😄 Pronouns: He/Him 💁‍♂️
@@ -64,10 +63,4 @@
 <a href="https://github.com/kindavishal/gitinit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kindavishal&repo=gitinit&theme=light" />
 </a>
-
-<div align="center">
-
-### You're on the right profile if you're looking for a DevRel, Community Manager or an UI/UX Engineer ✨
-
-</div>
 
