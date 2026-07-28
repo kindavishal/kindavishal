@@ -14,7 +14,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
           config_timezone: Asia/Kolkata
-          base: header, community
+          base: header
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_limit: 4
