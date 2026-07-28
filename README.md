@@ -36,3 +36,5 @@
 
 <img align="center" src="github-metrics.svg" alt="Vishal's GitHub metrics" />
 
+<img align="center" src="github-isocalendar.svg" alt="Vishal's contribution calendar" />
+
